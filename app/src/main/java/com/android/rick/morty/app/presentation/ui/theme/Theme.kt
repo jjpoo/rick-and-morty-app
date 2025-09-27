@@ -1,4 +1,4 @@
-package com.android.rick.morty.app.ui.theme
+package com.android.rick.morty.app.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
