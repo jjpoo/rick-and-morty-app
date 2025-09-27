@@ -37,6 +37,3 @@ jobs:
 
       - name: Build project
         run: ./gradlew clean build
-
-      - name: Run Unit tests
-        run: ./gradlew test
